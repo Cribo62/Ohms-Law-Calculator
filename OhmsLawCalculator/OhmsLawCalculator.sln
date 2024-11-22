@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmsLawCalculator", "OhmsLawCalculator\OhmsLawCalculator.csproj", "{418C44D9-2D6A-4EDB-A116-7C29F997FBA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418C44D9-2D6A-4EDB-A116-7C29F997FBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418C44D9-2D6A-4EDB-A116-7C29F997FBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418C44D9-2D6A-4EDB-A116-7C29F997FBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418C44D9-2D6A-4EDB-A116-7C29F997FBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E6A26B-BB87-4ACE-9825-428D93D92B1A}
+	EndGlobalSection
+EndGlobal

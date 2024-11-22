@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\bin\Debug\OhmsLawCalculator.exe.config
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\bin\Debug\OhmsLawCalculator.exe
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\bin\Debug\OhmsLawCalculator.pdb
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator_MarkupCompile.cache
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator_MarkupCompile.lref
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.g.resources
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.Properties.Resources.resources
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.exe
+C:\Users\HP\Desktop\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.pdb
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\bin\Debug\OhmsLawCalculator.exe.config
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\bin\Debug\OhmsLawCalculator.exe
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\bin\Debug\OhmsLawCalculator.pdb
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.csprojAssemblyReference.cache
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\MainWindow.g.cs
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\App.g.cs
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator_MarkupCompile.cache
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator_MarkupCompile.lref
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\MainWindow.baml
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.g.resources
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.Properties.Resources.resources
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.csproj.GenerateResource.cache
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.csproj.CoreCompileInputs.cache
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.exe
+C:\CUT\Second year-semester 3\SOD216C\C# Projects, Semester 3\OhmsLawCalculator\OhmsLawCalculator\obj\Debug\OhmsLawCalculator.pdb
